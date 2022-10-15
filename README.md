@@ -11,3 +11,10 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexmedinasf&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+I'm avaiable for job interviews! Contact me via:
+
+[Linkedin](https://www.linkedin.com/in/alexmedinasf/)
+
+[Twitter](https://www.twitter.com/in/alexmedinasf/)
+
