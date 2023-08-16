@@ -19,4 +19,3 @@ I'm available for job interviews! Contact me via:
 
 [Linkedin](https://www.linkedin.com/in/alexmedinasf/)
 
-[Twitter](https://www.twitter.com/in/alexmedinasf/)
