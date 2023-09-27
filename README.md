@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently studying at Microverse.
 - 👨‍💻 You can check my projects here: [Github](https://github.com/alexmedinasf?tab=repositories)
-- 😎 I can code for you in HTML, Css, React and Redux!
-- 🌱 I’m currently learning Ruby.
-- 🤞 Looking forward to learn Rails!
+- 😎 I can code for you in HTML, CSS, React & Redux and Ruby!
+- 🌱 I’m currently learning Rails.
+- 🤞 Looking forward to learn Python 🐍!
 - 💬 Ask me about my previous projects!
 - 📫 How to reach me: alexsales001@hotmail.com
 - 😄 Pronouns: he/him
